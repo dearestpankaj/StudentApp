@@ -1,0 +1,23 @@
+[
+    {
+        "firstName": "Chad",
+        "lastName": "Cunningham",
+        "email": "chad.cunningham@gmail.com",
+        "phoneNumber": "919990034737",
+        "image": "ChadCunningham"
+    },
+    {
+        "firstName": "Kurt",
+        "lastName": "Simmmons",
+        "email": "kurti.simmons@gmail.com",
+        "phoneNumber": "919990034737",
+        "image": "KurtSimmmons"
+    },
+    {
+        "firstName": "Stacey",
+        "lastName": "White",
+        "email": "stacey.white@gmail.com",
+        "phoneNumber": "919990034737",
+        "image": "StaceyWhite"
+    }
+]
